@@ -1,0 +1,16 @@
+{
+  "priorityColors": {
+    "low": "#9ca3af",
+    "normal": "#60a5fa",
+    "medium": "#facc15",
+    "high": "#f87171"
+  },
+  "statusStyles": {
+    "open": "normal",
+    "complete": "strikethrough",
+    "wont-do": "strikethrough",
+    "working": "bold",
+    "blocked": "italic"
+  },
+  "sidebarBasePath": "04 Visualizations/Bases/Calendar.base"
+}
